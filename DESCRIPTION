@@ -1,7 +1,7 @@
 Type: Package
 Package: onpoint
 Title: Helper Functions for Point Pattern Analysis
-Version: 1.0.5
+Version: 1.0.6
 Authors@R: 
   person("Maximilian H.K.", "Hesselbarth", 
   email = "mhk.hesselbarth@gmail.com",
@@ -22,11 +22,11 @@ Imports: ggplot2, spatstat.explore, spatstat.geom, spatstat.random,
         stats
 Suggests: covr, spatstat (>= 2.0.0), testthat (>= 3.0.0)
 Encoding: UTF-8
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.2
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2024-01-10 13:26:02 UTC; hesselbarth
+Packaged: 2024-09-17 14:29:44 UTC; mhesselbarth
 Author: Maximilian H.K. Hesselbarth [aut, cre]
     (<https://orcid.org/0000-0003-1125-9918>)
 Repository: CRAN
-Date/Publication: 2024-01-10 14:03:06 UTC
+Date/Publication: 2024-09-17 15:00:02 UTC
